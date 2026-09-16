@@ -10,6 +10,10 @@ My work spans AI runtimes, memory/context systems, governance and verification, 
 
 ### Microsoft Agent Governance Toolkit
 
+**Hypervisor API — safer governed agent execution**  
+Made the Hypervisor session API synchronous where appropriate, tightened Saga failure handling, and added regression coverage for replay and compensation edge cases.  
+→ [Merged PR #3645](https://github.com/microsoft/agent-governance-toolkit/pull/3645)
+
 **`agt verify` — runtime evidence validation**  
 Extended verification beyond package/import checks toward evidence-backed runtime posture, including safer evidence parsing, path validation, and file-size protections.  
 → [Merged PR #969](https://github.com/microsoft/agent-governance-toolkit/pull/969)
