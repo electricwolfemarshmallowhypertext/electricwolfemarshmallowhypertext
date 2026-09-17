@@ -10,6 +10,10 @@ My work spans AI runtimes, memory/context systems, governance and verification, 
 
 ### Microsoft Agent Governance Toolkit
 
+**EU AI Act compliance — amended applicability guidance**  
+Updated the toolkit’s compliance guidance for Regulation (EU) 2026/1744, including the revised high-risk system timelines and related applicability references across the compliance docs.  
+→ [Merged PR #3719](https://github.com/microsoft/agent-governance-toolkit/pull/3719)
+
 **Hypervisor API — safer governed agent execution**  
 Made the Hypervisor session API synchronous where appropriate, tightened Saga failure handling, and added regression coverage for replay and compensation edge cases.  
 → [Merged PR #3645](https://github.com/microsoft/agent-governance-toolkit/pull/3645)
