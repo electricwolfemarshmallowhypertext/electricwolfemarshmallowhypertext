@@ -30,7 +30,7 @@ Extended verification beyond package/import checks toward evidence-backed runtim
 
 **Provider initialization reliability**  
 Fixed a post-configuration state bug where a stale provider preference caused initialization to fail after rewriting the active config; restored successful provider resolution without changing the explicit-provider contract.  
-→ [Merged PR #477](https://github.com/Nano-Collective/nanocoder/pull/477)****
+→ [Merged PR #477](https://github.com/Nano-Collective/nanocoder/pull/477)
 
 ## Selected work
 
