@@ -26,6 +26,10 @@ Made the Hypervisor session API synchronous where appropriate, tightened Saga fa
 Extended verification beyond package/import checks toward evidence-backed runtime posture, including safer evidence parsing, path validation, and file-size protections.  
 → [Merged PR #969](https://github.com/microsoft/agent-governance-toolkit/pull/969)
 
+**Nanocoder — provider initialization reliability**  
+Fixed a post-configuration state bug where a stale provider preference caused initialization to fail after rewriting the active config; restored successful provider resolution without changing the explicit-provider contract.  
+→ [Merged PR #477](https://github.com/Nano-Collective/nanocoder/pull/477)****
+
 ## Selected work
 
 ### [AgentMD Runtime](https://github.com/electricwolfemarshmallowhypertext/agentmd-runtime)
