@@ -1,6 +1,6 @@
 # Tionne Smith
 
-**Creative Technologist · Forward Deployed AI Engineer**
+**Creative Technologist | AI Engineer 🫧 Multidisciplinary Nerd**
 
 I research, design, build, test, and ship across applied AI, backend systems, web, digital products, and visual design.
 
