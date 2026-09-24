@@ -10,21 +10,21 @@ My work spans AI runtimes, memory/context systems, governance and verification, 
 
 ### Microsoft Agent Governance Toolkit
 
-**AgentMesh audit exports — complete, reproducible evidence**  
-Removed the 10,000-record export cap, fixed a concurrent-append truncation race in the unbounded export path, and added regression coverage for audit/Merkle reproducibility.  
-→ [Merged PR #4096](https://github.com/microsoft/agent-governance-toolkit/pull/4096)
+**AgentMesh audit integrity**  
+Fixed audit export completeness, Merkle-root consistency, failed-append atomicity, and concurrent reader consistency.  
+→ [#4096](https://github.com/microsoft/agent-governance-toolkit/pull/4096) · [#4135](https://github.com/microsoft/agent-governance-toolkit/pull/4135) · [#4138](https://github.com/microsoft/agent-governance-toolkit/pull/4138) · [#4140](https://github.com/microsoft/agent-governance-toolkit/pull/4140)
 
-**EU AI Act compliance — amended applicability guidance**  
-Updated the toolkit’s compliance guidance for Regulation (EU) 2026/1744, including the revised high-risk system timelines and related applicability references across the compliance docs.  
-→ [Merged PR #3719](https://github.com/microsoft/agent-governance-toolkit/pull/3719)
+**EU AI Act compliance**  
+Updated applicability guidance for Regulation (EU) 2026/1744, including revised high-risk system timelines.  
+→ [#3719](https://github.com/microsoft/agent-governance-toolkit/pull/3719)
 
-**Hypervisor API — safer governed agent execution**  
-Made the Hypervisor session API synchronous where appropriate, tightened Saga failure handling, and added regression coverage for replay and compensation edge cases.  
-→ [Merged PR #3645](https://github.com/microsoft/agent-governance-toolkit/pull/3645)
+**Hypervisor API**  
+Made the session API synchronous where appropriate and tightened Saga failure handling and regression coverage.  
+→ [#3645](https://github.com/microsoft/agent-governance-toolkit/pull/3645)
 
-**`agt verify` — runtime evidence validation**  
-Extended verification beyond package/import checks toward evidence-backed runtime posture, including safer evidence parsing, path validation, and file-size protections.  
-→ [Merged PR #969](https://github.com/microsoft/agent-governance-toolkit/pull/969)
+**`agt verify` runtime evidence**  
+Extended verification toward evidence-backed runtime posture with safer parsing, path validation, and file-size protections.  
+→ [#969](https://github.com/microsoft/agent-governance-toolkit/pull/969)
 
 ### Nanocoder
 
