@@ -11,8 +11,8 @@ My work spans AI runtimes, memory/context systems, governance and verification, 
 ### Microsoft Agent Governance Toolkit
 
 **AgentMesh audit integrity**  
-Fixed audit export completeness, Merkle-root consistency, failed-append atomicity, and concurrent reader consistency.  
-→ [#4096](https://github.com/microsoft/agent-governance-toolkit/pull/4096) · [#4135](https://github.com/microsoft/agent-governance-toolkit/pull/4135) · [#4138](https://github.com/microsoft/agent-governance-toolkit/pull/4138) · [#4140](https://github.com/microsoft/agent-governance-toolkit/pull/4140)
+Improved audit correctness and performance across exports, Merkle-root consistency, failed-append atomicity, concurrent readers, chain/index/service state consistency, and indexed-read performance.  
+→ [#4096](https://github.com/microsoft/agent-governance-toolkit/pull/4096) · [#4135](https://github.com/microsoft/agent-governance-toolkit/pull/4135) · [#4138](https://github.com/microsoft/agent-governance-toolkit/pull/4138) · [#4140](https://github.com/microsoft/agent-governance-toolkit/pull/4140) · [#4147](https://github.com/microsoft/agent-governance-toolkit/pull/4147) · [#4148](https://github.com/microsoft/agent-governance-toolkit/pull/4148)
 
 **EU AI Act compliance**  
 Updated applicability guidance for Regulation (EU) 2026/1744, including revised high-risk system timelines.  
