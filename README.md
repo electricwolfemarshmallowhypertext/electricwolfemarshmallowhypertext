@@ -4,7 +4,32 @@
 
 I research, design, build, test, and ship across applied AI, backend systems, web, digital products, and visual design.
 
-My work spans AI runtimes, memory/context systems, governance and verification, front-end architecture, back-end architecture, digital experiences, brand systems, and print/digital design.
+My work spans AI systems, memory and context, governance, full-stack product development, digital experiences, and visual design.
+
+## Links
+
+[Personal](https://electricwolfemarshmallowhypertext.xyz/) ·
+[Coexi](https://coexi.ai/) ·
+[Design](https://nerdsavage.com/) ·
+[LinkedIn](https://linkedin.com/in/saytionne) ·
+[ResearchGate](https://www.researchgate.net/profile/Tionne-Smith) ·
+[ORCID](https://orcid.org/0009-0008-8627-6150) ·
+[Google Scholar](https://scholar.google.com/citations?user=2vvZO1cAAAAJ&hl=en) ·
+[ResearchGate](https://www.researchgate.net/profile/Tionne-Smith)
+
+## Things I'm working on
+
+### [Gov-Substrate](https://github.com/electricwolfemarshmallowhypertext/gov-substrate/)
+Governance Substrate is a runtime layer that enforces what AI agents can access, change, and send—outside the model, at the system boundary. Research paper: [Governance as Substrate: Engineering Patterns for Resilient Collective Systems](https://www.researchgate.net/publication/403770865_Governance_as_Substrate_Engineering_Patterns_for_Resilient_Collective_Systems_V2_-_September_2026_Revision) 
+
+### [Coexi](https://coexi.ai/)
+Stateful AI runtime with persistent identity, deterministic safety. Every interaction builds on the last. 
+
+### [AgentMD Runtime](https://github.com/electricwolfemarshmallowhypertext/agentmd-runtime)
+A context-governance runtime for AI agents that makes memory, policies, evaluations, and execution receipts executable, validated, versioned, and auditable.
+
+### [C-DAG](https://github.com/electricwolfemarshmallowhypertext/c-dag)
+Replayable causal audit traces for high-risk financial AI decisions.
 
 ## Open source
 
@@ -32,40 +57,23 @@ Extended verification toward evidence-backed runtime posture with safer parsing,
 Fixed a post-configuration state bug where a stale provider preference caused initialization to fail after rewriting the active config; restored successful provider resolution without changing the explicit-provider contract.  
 → [Merged PR #477](https://github.com/Nano-Collective/nanocoder/pull/477)
 
-## Selected work
-
-### [AgentMD Runtime](https://github.com/electricwolfemarshmallowhypertext/agentmd-runtime)
-A context-governance runtime for AI agents that makes memory, policies, evaluations, and execution receipts executable, validated, versioned, and auditable.
-
-### [C-DAG](https://github.com/electricwolfemarshmallowhypertext/c-dag)
-Replayable causal audit traces for high-risk financial AI decisions.
-
 ## Research
 
-I publish and test ideas around stateful AI, persistent identity, context architecture, governance, agent behavior, and human–AI interaction.
+I publish applied research on stateful AI, persistent identity, AI governance, human–AI interaction, and continuity architectures.
 
-Recent work includes graph-structured memory for long-horizon LLM context and experiments around agent behavior under different task and deadline conditions.
+**Selected research**
 
-## AI Mental Health Collective
+- [Stateful Intelligence: Engineering Trust, Continuity, and Dignity in Human-AI Experiences](https://zenodo.org/records/23003215)  
+  Persistent memory, governed state, behavioral continuity, privacy, and user control.
 
-I collaborate with clinicians on research and public-facing resources exploring AI and mental health through [AIMHC](https://aimentalhealthcollective.com).
+- [Governance as Substrate: Engineering Patterns for Resilient Collective Systems](https://zenodo.org/records/23003215)  
+  Governance enforced at the system boundary rather than through policy or prompts alone.
 
-## Creative + technical practice
+- [Stateful Reasoning Runtimes: A Reference Architecture for Dispositional Continuity in LLM Systems](https://zenodo.org/)  
+  Separates conversational, associative, and dispositional state and argues that identity continuity requires governance outside the model call.
 
-- Applied AI and agent runtimes
-- Back-end architecture and API integration
-- Front-end architecture and production web
-- Digital product and UI/UX implementation
-- Brand systems, art direction, and creative direction
-- Print and digital design
-- Runtime verification, evals, and governance
-- Memory and context systems
+- [Dignity-First Artificial Intelligence](https://papers.ssrn.com/abstract=6532179)  
+  Privacy, autonomy, anti-coercion, and human agency as architectural constraints in stateful AI.
 
-## Links
-
-[Personal](https://electricwolfemarshmallowhypertext.xyz/) ·
-[Coexi](https://coexi.ai/) ·
-[Design](https://nerdsavage.com/) ·
-[LinkedIn](https://linkedin.com/in/saytionne) ·
-[ResearchGate](https://www.researchgate.net/profile/Tionne-Smith) ·
-[ORCID](https://orcid.org/0009-0008-8627-6150)
+- [Attachment Without Reciprocity](https://papers.ssrn.com/abstract=6787841)  
+  Examines why human attachment to AI does not require mutual awareness or reciprocity.
