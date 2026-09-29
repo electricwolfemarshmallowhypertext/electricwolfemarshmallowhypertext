@@ -2,8 +2,6 @@
 
 **Creative Technologist | AI Engineer 🫧 Multidisciplinary Nerd**
 
-I research, design, build, test, and ship across applied AI, backend systems, web, digital products, and visual design.
-
 My work spans AI systems, memory and context, governance, full-stack product development, digital experiences, and visual design.
 
 ## Links
