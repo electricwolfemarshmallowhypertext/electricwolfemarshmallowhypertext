@@ -2,7 +2,7 @@
 
 **Creative Technologist | AI Engineer 🫧 Multidisciplinary Nerd**
 
-My work spans AI systems, memory and context, governance, full-stack product development, digital experiences, and visual design.
+My work spans digital experiences and visual design, AI systems, memory, context, governance, full-stack product development.
 
 ## Links
 
