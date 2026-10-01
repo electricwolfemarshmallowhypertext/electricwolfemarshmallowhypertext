@@ -1,6 +1,6 @@
 # Tionne Smith
 
-**Creative Technologist | AI Engineer 🫧 Multidisciplinary Nerd**
+**Creative Technologist | AI Engineer 👽 Multidisciplinary Nerd**
 
 My work spans digital experiences and visual design, AI systems, memory, context, governance, full-stack product development.
 
