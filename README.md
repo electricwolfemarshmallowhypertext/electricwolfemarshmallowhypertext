@@ -13,7 +13,6 @@ My work spans digital experiences and visual design, AI systems, memory, context
 [ResearchGate](https://www.researchgate.net/profile/Tionne-Smith) ·
 [ORCID](https://orcid.org/0009-0008-8627-6150) ·
 [Google Scholar](https://scholar.google.com/citations?user=2vvZO1cAAAAJ&hl=en) ·
-[ResearchGate](https://www.researchgate.net/profile/Tionne-Smith)
 
 ## Things I'm working on
 
