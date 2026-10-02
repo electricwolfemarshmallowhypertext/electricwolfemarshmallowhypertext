@@ -2,7 +2,7 @@
 
 **Creative Technologist 👽 Multidisciplinary Nerd**
 
-My work spans digital experiences and visual design, AI systems, memory, context, governance, full-stack product development.
+My work spans digital experiences: visual design, AI systems, memory, context, governance, and full-stack product development.
 
 ## Links
 
