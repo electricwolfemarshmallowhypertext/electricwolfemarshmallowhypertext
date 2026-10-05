@@ -29,8 +29,8 @@ A context-governance runtime for AI agents that makes memory, policies, evaluati
 
 ### TokenMizer
 
-**Checkpoint tool-call preservation**
-Fixed checkpoint ingestion so structured tool-call messages retain tool_calls, tool_call_id, and name instead of being reduced to plain text, preserving file operations and graph-memory extraction across API and MCP paths.
+**Checkpoint tool-call preservation**  
+Fixed checkpoint ingestion so structured tool-call messages retain tool_calls, tool_call_id, and name instead of being reduced to plain text, preserving file operations and graph-memory extraction across API and MCP paths.  
 → [#84](https://github.com/Shweta-Mishra-ai/tokenmizer/pull/84)
 
 ### Microsoft Agent Governance Toolkit
