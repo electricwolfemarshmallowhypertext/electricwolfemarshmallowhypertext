@@ -25,10 +25,13 @@ Stateful AI runtime with persistent identity, deterministic safety. Every intera
 ### [AgentMD Runtime](https://github.com/electricwolfemarshmallowhypertext/agentmd-runtime)
 A context-governance runtime for AI agents that makes memory, policies, evaluations, and execution receipts executable, validated, versioned, and auditable.
 
-### [C-DAG](https://github.com/electricwolfemarshmallowhypertext/c-dag)
-Replayable causal audit traces for high-risk financial AI decisions.
-
 ## Open source
+
+### TokenMizer
+
+**Checkpoint tool-call preservation**
+Fixed checkpoint ingestion so structured tool-call messages retain tool_calls, tool_call_id, and name instead of being reduced to plain text, preserving file operations and graph-memory extraction across API and MCP paths.
+→ [#84](https://github.com/Shweta-Mishra-ai/tokenmizer/pull/84)
 
 ### Microsoft Agent Governance Toolkit
 
