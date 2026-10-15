@@ -69,7 +69,7 @@ I publish applied research on stateful AI, persistent identity, AI governance, h
 - [Governance as Substrate: Engineering Patterns for Resilient Collective Systems](https://zenodo.org/records/23348071)  
   Governance enforced at the system boundary rather than through policy or prompts alone.
 
-- [Stateful Reasoning Runtimes: A Reference Architecture for Dispositional Continuity in LLM Systems]([https://zenodo.org/](https://zenodo.org/records/21142562))  
+- [Stateful Reasoning Runtimes: A Reference Architecture for Dispositional Continuity in LLM Systems](https://zenodo.org/records/21142562)  
   Separates conversational, associative, and dispositional state and argues that identity continuity requires governance outside the model call.
 
 - [Attachment Without Reciprocity: Why Humans Don't Need a Real "Other" to Form Connection](https://papers.ssrn.com/abstract=6787841)  
