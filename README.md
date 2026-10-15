@@ -66,14 +66,14 @@ I publish applied research on stateful AI, persistent identity, AI governance, h
 - [Stateful Intelligence: Engineering Trust, Continuity, and Dignity in Human-AI Experiences](https://zenodo.org/records/23003215)  
   Persistent memory, governed state, behavioral continuity, privacy, and user control.
 
-- [Governance as Substrate: Engineering Patterns for Resilient Collective Systems](https://zenodo.org/records/23003215)  
+- [Governance as Substrate: Engineering Patterns for Resilient Collective Systems](https://zenodo.org/records/23348071)  
   Governance enforced at the system boundary rather than through policy or prompts alone.
 
-- [Stateful Reasoning Runtimes: A Reference Architecture for Dispositional Continuity in LLM Systems](https://zenodo.org/)  
+- [Stateful Reasoning Runtimes: A Reference Architecture for Dispositional Continuity in LLM Systems]([https://zenodo.org/](https://zenodo.org/records/21142562))  
   Separates conversational, associative, and dispositional state and argues that identity continuity requires governance outside the model call.
 
-- [Dignity-First Artificial Intelligence](https://papers.ssrn.com/abstract=6532179)  
-  Privacy, autonomy, anti-coercion, and human agency as architectural constraints in stateful AI.
-
-- [Attachment Without Reciprocity](https://papers.ssrn.com/abstract=6787841)  
+- [Attachment Without Reciprocity: Why Humans Don't Need a Real "Other" to Form Connection](https://papers.ssrn.com/abstract=6787841)  
   Examines why human attachment to AI does not require mutual awareness or reciprocity.
+
+- [The Anatomy of the Negative Contrast Trap](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6951699)  
+  Why AI models overuse repetitive, robotic phrases like "not this, but that" due to flaws in how they are trained by humans.
